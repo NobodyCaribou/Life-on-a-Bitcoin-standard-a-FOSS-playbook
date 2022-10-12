@@ -10,9 +10,7 @@ bc1qr3hmau2mvuf5se9wpgzrd82d3xqjxwq52cs0sl
 If you have feedback, please DM us on Twitter
 
 ---
-Chapter 1: zero based budget
-
--> What is a zero based budget?
+Chapter 1: zero based budget(https://github.com/NobodyCaribou/life-on-a-btc-standard/blob/main/zero%20based%20budget)
 
 
 ---
