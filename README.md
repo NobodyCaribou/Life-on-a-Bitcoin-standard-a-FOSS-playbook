@@ -1,4 +1,5 @@
-# life-on-a-btc-standard
+# Life on a Bitcoin standard
+
 A FOSS playbook for transitioning to living life on a zero balance budget Bitcoin standard
 
 Created by @ppahljina & @nobodycaribou
