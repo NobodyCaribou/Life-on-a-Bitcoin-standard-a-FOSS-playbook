@@ -12,11 +12,8 @@ If you have feedback, please DM us on Twitter
 ---
 [Chapter 1: zero based budget](https://github.com/NobodyCaribou/life-on-a-btc-standard/blob/main/zero%20based%20budget)
 
-
 ---
-Chapter 2: Escaping fiat debt
-
--> Why it's important
+[Chapter 2: Escaping fiat debt](https://github.com/NobodyCaribou/life-on-a-btc-standard/blob/main/x.2%20-%20escaping%20fiat%20debt)
 
 ---
 Chapter 3: Giving category
