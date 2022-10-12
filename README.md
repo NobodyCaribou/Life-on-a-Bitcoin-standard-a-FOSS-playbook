@@ -1,6 +1,6 @@
 # Life on a Bitcoin standard
 
-A FOSS playbook for transitioning to living life on a zero balance budget Bitcoin standard
+A FOSS playbook for transitioning to living life on a Bitcoin standard using a zero balance budget
 
 Created by @ppahljina & @nobodycaribou
 
