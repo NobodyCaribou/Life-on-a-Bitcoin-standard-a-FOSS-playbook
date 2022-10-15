@@ -11,7 +11,7 @@ bc1qr3hmau2mvuf5se9wpgzrd82d3xqjxwq52cs0sl
 If you have feedback, please DM us on Twitter
 
 ---
-[Chapter 1: Zero based budget](https://github.com/NobodyCaribou/life-on-a-btc-standard/blob/main/zero%20based%20budget)
+[Chapter 1: Zero based budget](https://github.com/NobodyCaribou/Life-on-a-Bitcoin-standard-a-FOSS-playbook/blob/main/x1.0%20-%20zero%20based%20budget)
 
 ---
 [Chapter 2: Escaping fiat debt](https://github.com/NobodyCaribou/life-on-a-btc-standard/blob/main/x2.0%20-%20escaping%20fiat%20debt)
