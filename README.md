@@ -17,11 +17,7 @@ If you have feedback, please DM us on Twitter
 [Chapter 2: Escaping fiat debt](https://github.com/NobodyCaribou/life-on-a-btc-standard/blob/main/x.2%20-%20escaping%20fiat%20debt)
 
 ---
-Chapter 3: Giving category
-
--> Benefits of giving
--> Choosing a % of inflow to give
--> Ways to give
+[Chapter 3: Giving category](https://github.com/NobodyCaribou/Life-on-a-Bitcoin-standard-a-FOSS-playbook/blob/main/x.3%20-%20giving)
 
 ---
 Final chapter: Transition to a full bitcoin standard
