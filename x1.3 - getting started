@@ -7,6 +7,49 @@ https://www.youneedabudget.com
 
 Step 1: calculate how much money you currently have. List total of current accounts. List all available liquid assets
 
+one of the important skills you will develop is thinking in numbers, and being precise with your money. you should always know exactly how much monetary energy is under your command, so start by counting your money.
+
+in YNAB software, you do this by adding your accounts and listing how much money currently resides in each.
+
+Your physical wallet is one account - take it out and count exactly how much money is there currently (bills and coins)
+check your bank account and list checking account sum.
+add your savings account number as well.
+
+Step 2:
+
+calculate your net worth
+
+I treat my bitcoin balance as a part of cash balance, which means I budget it. however, if you still aren't there, you will want to track your bitcoin balance in the Tracking section of the budget. Here you are tracking the value of your assets & liabilities. List everything you own there (real estate, investments, loans, vehicles...). List also all liabilities you have there.
+
+After you do this, you should have a number for your net worth. It's easily calculated as the value of your assets, minus the amount of your liabilities. If you have $500,000 in assets and you have $300,000 in liabilities, your net worth is $200,000.
+
+Step 3:
+
+now we need to start zero based budgeting. once you know exactly how much money you have - you need to assign all of it to different categories. It is helpful to divide them into three main groups: 1) Giving (we'll talk about this in depth in section 2), 2) Needs and 3) Wants. If you hold any level of debt - skip the Giving & Wants part - focus on your needs only and start your 180 day journey of running your budget.
+
+I hope once you go through it (and even better before) you will get out of debt completely, and reintroduce Giving & Wants category.
+
+YNAB offers a good starting template on what are the different categories you can assign your money to - use it as a guide, but don't hesitate to make your own categories. In the beginning - less is more, keep it as simple as possible.
+
+then - assign your money to the categories until there is zero left to assign. congratulations - you have your first zero-based budget.
+
+now - when you make a transaction - you need to get in the habit of tracking it. If you spend $100 by filling up your gas tank - you need to enter this transaction (who is the Payee, which account you used to pay it from, note and the amount) and of course - select a category from which you paid it. In this case - you may want to have Transport category, and if for example you had $1000 budgeted in it, a transaction of $100 should leave you with $900 in the category. 
+
+you do this with every single transaction, no matter how small or big it may seem to you.
+
+this is how you make your Outflows transactions.
+
+Step 4:
+
+Whenever you get paid, or you have any money coming in to your budget - you need to track that by adding it as Inflow transaction. This will add more money to assign, and you need to assign it until you again have zero money left to assign - meaning, you are running zero based budget.
+
+Step 5:
+
+It is helpful to list your future expected transactions in the Scheduled transactions. This is done by simply selecting a future date for your transactions. If you expect to pay your rent on the 15th of the month, and today is 3rd of the month, add your future outflow transaction for the 15th. Your budget category will turn yellow if you don't have enough in it, and you have scheduled transaction coming in. For example, if your monthly rent is $1000, and you only have $800 - it will signal yellow that you have upcoming transaction you should cover. Then you can reassign $200 (or more) from another category and it will turn green again.
+
+List your future expected inflows as well.
+
+
 Step 2: list inflows and expenses
 
 High level:
